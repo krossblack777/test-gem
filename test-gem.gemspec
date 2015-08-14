@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Test::Gem::VERSION
   spec.authors       = ["krossblack777"]
   spec.email         = ["krossprogram@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{test}
+  spec.description   = %q{test}
+  spec.homepage      = "https://github.com/krossblack777/test-gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
